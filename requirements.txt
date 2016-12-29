@@ -1,0 +1,5 @@
+notebook==4.2.3
+numpy==1.11.2
+scipy==0.18.1
+six==1.10.0
+tensorflow==0.12.0rc0
